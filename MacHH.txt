@@ -1,1 +1,2 @@
 op Macbook gemaakt
+lijn toegvoeg op linuc ubuntu
